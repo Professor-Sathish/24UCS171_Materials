@@ -346,4 +346,3 @@ display_score(player1)
    - Create zip backups
    - Handle file operation errors
 
-These examples and projects will help you understand and practice these concepts effectively. Try modifying them and creating your own versions!
