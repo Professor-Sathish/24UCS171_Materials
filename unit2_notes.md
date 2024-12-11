@@ -398,5 +398,3 @@ process_list()
    - Keep conditions simple and readable
    - Use compound conditions carefully
    - Consider edge cases
-
-Remember to test your code with different inputs and edge cases!
